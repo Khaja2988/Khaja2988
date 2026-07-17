@@ -1,27 +1,143 @@
-# 💫 About Me:
-KHAJAVALI SHAIK <br>India | Andhra Pradesh | +91 9121684641  |shaikbaji2988@gmail.com | Linkedin https://www.linkedin.com/in/shaik-khajavali-31a202278/<br> | GitHub  https://github.com/Khaja2988<br>Education  <br>University <br>Institute  <br>Year <br>CGPA  <br>B. Tech in CS&IT KL University <br>Intermediate/+2 <br>SSC <br>AP State Board <br>AP State Board <br>Koneru Lakshmaiah Deemed to be University <br>Sri Chaitanya Junior College <br>Zilla parishadh E.M High school  <br>2025 - Present 9.31 <br>2023 <br>2021 <br>8.69 <br>10 <br>INTERNSHIPS <br>Web Full Stack Developer Virtual Intern [April 2025] <br>Full Stack Intern <br>• Completed a Web Full Stack Developer Virtual Internship (April 2025), gaining hands-on experience through mini projects. <br>• Worked on both frontend and backend development, enhancing my full-stack web development skills. <br>PROJECTS <br>Employee Management System                                                                                                                                    <br>•  Tech Stack: HTML, CSS, JavaScript, Bootstrap, React.js, Node.js, Git, and Database. <br>[Jan 2025] <br>•  Designed and developed an interactive web application to manage employee data efficiently using React.js and Node.js. <br>•  Implemented features for employee registration, attendance tracking, and performance monitoring to streamline HR operations. <br>Musical Drums                                                                                                                                                                <br>• Tech : HTML, CSS, Git, JavaScript, BootStrap . <br>[Sep 2024] <br>• Designed a Website which using advanced java script, which give sounds of different instruments by hovering them. <br>SOFTWARE SKILLS <br>• Web Development                       <br>• Programming Languages           <br>• Database                                       <br>• Version Control                           <br>• Tools                                             <br>: HTML,CSS, JavaScript, Bootstrap, React.js,  Node.js, API’s . <br>: C, C++, Core Java, Python with Basics. <br>: MYSQL, MongoDB. <br>: Git and GitHub. <br>: VS Code , Eclipse . <br>Course Work <br>• Data Structures and Algorithms. <br>• Object Oriented Programming.  <br>• Operating Systems. <br>• DataBase Management systems. <br>Certifications <br>• Google Cloud Certified Associate Cloud Engineer.   https://www.credly.com/badges/fb73fabf-79ba-440e-bac9-9e7ebf15e2e5/public_url            <br>• Juniper Networks Certified Associate.  https://www.credly.com/badges/8fbfe002-6424-45d1-a7c6-c3c472629796/public_url                                                             <br>• MongoDB Associate Developer      https://www.credly.com/badges/fab8fc0b-f4ab-4255-8553-be3603814774/public_url      <br>• Languages Known <br>• ENGLISH  <br>HINDI  <br>TELUGU  <br>URDU 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Khaja%20Vali%20Shaik&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS/IT%20Student&descAlignY=55&descSize=20" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/khaja._.vali_/?hl=en-in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaik-khajavali-31a202278/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:SHAIKBAJI2988@GMAIL.COM) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS%2FIT+Student;Building+the+Employee+Management+System;Making+sounds+with+Musical+Drum;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Khaja2988&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Khaja2988&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Khaja2988&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=black)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Khaja2988&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Profile Views](https://komarev.com/ghpvc/?username=Khaja2988&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Khaja2988?style=for-the-badge&color=7dd3fc&labelColor=black)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Khaja2988&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
 
----
-[![](https://komarev.com/ghpvc/?username=Khaja2988&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🧑‍💻 Who I Am
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```ts
+const khajaValiShaik = {
+  title: "CS/IT Student",
+  stack: [
+    "C++", "Java", "C", "Python",
+    "HTML5", "Spring",
+    "MongoDB", "MySQL", "Postgres", "SQLite",
+    "Google Cloud", "AWS", "Azure",
+    "Git", "GitHub", "Subversion", "GitHub Actions",
+    "Docker", "Jenkins", "Apache",
+    "Power BI", "Postman", "Canva",
+  ],
+  launchedProjects: [
+    "Employee Management System",
+    "Musical Drum",
+  ],
+  status: "Building full-stack projects and sharpening my dev toolkit",
+  openTo: "Full-time opportunities",
+};
+```
+
+<br/>
+
+## 🚀 Featured Projects
+
+### 👤 Employee Management System
+
+Interactive web application to manage employee data — built with React.js and Node.js, with features for employee registration, attendance tracking, and performance monitoring to streamline HR operations.
+
+<div align="center">
+
+[![Employee Management System](https://github-readme-stats.vercel.app/api/pin/?username=Khaja2988&repo=fsdend&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9)](https://github.com/Khaja2988/fsdend)
+
+</div>
+
+| Layer      | Technology                          |
+|------------|--------------------------------------|
+| Frontend   | HTML, CSS, JavaScript, Bootstrap, React.js |
+| Backend    | Node.js                              |
+| Versioning | Git                                  |
+| Data       | Database                             |
+
+🔗 **Code:** [github.com/Khaja2988/fsdend](https://github.com/Khaja2988/fsdend)
+
+<br/>
+
+### 🥁 Musical Drum
+
+A website built with advanced JavaScript that plays different instrument sounds as you hover over the drum elements.
+
+<div align="center">
+
+[![Musical Drum](https://github-readme-stats.vercel.app/api/pin/?username=Khaja2988&repo=DRUM_KIT&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9)](https://github.com/Khaja2988/DRUM_KIT)
+
+</div>
+
+| Layer      | Technology                    |
+|------------|--------------------------------|
+| Frontend   | HTML, CSS, JavaScript, Bootstrap |
+| Versioning | Git                             |
+
+🔗 **Code:** [github.com/Khaja2988/DRUM_KIT](https://github.com/Khaja2988/DRUM_KIT)
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![](https://skillicons.dev/icons?i=cpp,java,c,py)
+
+**Frontend**
+
+![](https://skillicons.dev/icons?i=html)
+
+**Backend & Databases**
+
+![](https://skillicons.dev/icons?i=spring,mongodb,mysql,postgres,sqlite)
+
+**Cloud**
+
+![](https://skillicons.dev/icons?i=gcp,aws,azure)
+
+**Dev Tools & DevOps**
+
+![](https://skillicons.dev/icons?i=git,github,githubactions,docker,jenkins,postman)
+
+**Other Tools**
+
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Subversion](https://img.shields.io/badge/Subversion-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Khaja2988&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&hide_border=false" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaja2988&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false" width="49%"/>
+
+<img src="https://streak-stats.demolab.com?user=Khaja2988&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="70%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Khaja2988&theme=nord&no-frame=true&no-bg=true&row=1&margin-w=15" width="90%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khaja2988&theme=nord&bg_color=0f172a&color=7dd3fc&line=7dd3fc&point=ffffff&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-khajavali-31a202278)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khaja._.vali_/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikbaji2988@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=120&section=footer&animation=twinkling" width="100%"/>
