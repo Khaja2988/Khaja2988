@@ -69,7 +69,7 @@ A website built with advanced JavaScript that plays different instrument sounds 
 
 <div align="center">
 
-[![Musical Drum](https://github-readme-stats.vercel.app/api/pin/?username=Khaja2988&repo=DRUM_KIT&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9)](https://github.com/Khaja2988/DRUM_KIT)
+[![Musical Drum](https://github-readme-stats.vercel.app/api/pin/?username=Khaja2988&repo=DRUM_KIT&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9)]([https://github.com/Khaja2988/DRUM_KIT](https://khaja2988.github.io/DRUM_KIT/))
 
 </div>
 
