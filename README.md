@@ -1,211 +1,126 @@
 <div align="center">
 
+# Hi 👋, I'm Shaik Khajavali
 
+### 🎓 CS/IT Student | 💻 Full-Stack Developer | 🤖 AI & Web Enthusiast
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Shaik%20Khajavali&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS/IT%20Student&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=Khaja2988&label=Profile%20Views&color=7dd3fc&style=for-the-badge" alt="Profile Views"/>
 
+<br/><br/>
 
-
-<a href="https://git.io/typing-svg">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS%2FIT+Student;Building+the+Employee+Management+System;Making+sounds+with+Musical+Drum;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
-
+<a href="https://github.com/Khaja2988">
+<img src="https://github-profile-trophy.vercel.app/?username=Khaja2988&theme=nord&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%" alt="GitHub Profile Trophy"/>
 </a>
-
-
-
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=black)
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=Khaja2988&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
-
-![Followers](https://img.shields.io/github/followers/Khaja2988?style=for-the-badge&color=7dd3fc&labelColor=black)
-
-
 
 </div>
 
+---
 
+## 👨‍💻 About Me
 
-<br/>
+- 🎓 I'm currently pursuing **B.Tech in CS/IT**
+- 💻 Interested in **Full-Stack Web Development**
+- 🤖 Exploring **AI-powered applications**
+- 🌾 Currently building **AgriHub – Smart Crop Care & Farm-to-Market Decision Engine**
+- 🚀 Building practical projects to improve my development skills
+- 📚 Continuously learning new technologies and development tools
+- 💼 Open to **Full-Time Opportunities**
 
+---
 
+## 🚀 My Projects
 
-const ShaikKhajavali = {
+### 🌾 AgriHub – Smart Crop Care & Farm-to-Market Decision Engine
 
-  title: "CS/IT Student | Full-Stack Developer",
+AI-assisted platform designed to help farmers with crop disease diagnosis, dosage guidance, market prices, buyers/FPOs, storage and logistics.
 
-  stack: [
-    "C++", "Java", "C", "Python",
-    "HTML5", "CSS3", "JavaScript",
-    "React.js", "Vite",
-    "Node.js", "Express.js", "Spring",
-    "MongoDB", "MySQL", "PostgreSQL",
-    "REST APIs", "AI",
-    "AWS", "Azure", "Google Cloud",
-    "Git", "GitHub", "Docker", "Jenkins",
-    "GitHub Actions", "Postman",
-    "PWA", "IndexedDB"
-  ],
+**Tech Stack:** React.js, Vite, Node.js, Express.js, MongoDB, AI, REST APIs, PWA, IndexedDB
 
-  projects: [
-    "🌾 AgriHub",
-    "👤 Employee Management System",
-    "🥁 Musical Drum"
-  ],
+**Features:**
 
-  focus: [
-    "Full-Stack Development",
-    "AI & Web Applications",
-    "Cloud & DevOps"
-  ],
+- 🌱 AI-assisted crop disease diagnosis
+- 💊 Dosage guidance
+- 📈 Market price information
+- 👨‍🌾 Buyers and FPO information
+- 📦 Storage recommendations
+- 🚚 Transportation and logistics support
+- 💰 Net-earnings decision engine
+- 🌐 Telugu / Hindi / English support
+- 📱 PWA support
+- 📴 Offline support using IndexedDB
 
-  status: "Building practical full-stack and AI-powered applications",
+🔗 **[View AgriHub on GitHub](https://github.com/Khaja2988/AgriHub)**
 
-  openTo: "Full-time opportunities 🚀"
-
-};
-
-```
-
-
-
-<br/>
-
-
-
-## 🚀 Featured Projects
-
-
+---
 
 ### 👤 Employee Management System
 
+Full-stack web application for managing employee information, registration, attendance and performance.
 
+**Tech Stack:** HTML, CSS, JavaScript, Bootstrap, React.js, Node.js, Database
 
-Interactive web application to manage employee data — built with React.js and Node.js, with features for employee registration, attendance tracking, and performance monitoring to streamline HR operations.
+**Features:**
 
+- 👤 Employee registration
+- 📋 Employee management
+- 📅 Attendance tracking
+- 📊 Performance monitoring
 
+🔗 **[View Employee Management System](https://github.com/Khaja2988/fsdend)**
 
-<div align="center">
-
-
-
-[![Employee Management System](https://github-readme-stats.vercel.app/api/pin/?username=Khaja2988&repo=fsdend&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9)](https://github.com/Khaja2988/fsdend)
-
-
-
-</div>
-
-
-
-| Layer      | Technology                          |
-
-|------------|--------------------------------------|
-
-| Frontend   | HTML, CSS, JavaScript, Bootstrap, React.js |
-
-| Backend    | Node.js                              |
-
-| Versioning | Git                                  |
-
-| Data       | Database                             |
-
-
-
-🔗 **Code:** [github.com/Khaja2988/fsdend](https://github.com/Khaja2988/fsdend)
-
-
-
-<br/>
-
-
+---
 
 ### 🥁 Musical Drum
 
+Interactive musical drum website that plays different instrument sounds using JavaScript.
 
+**Tech Stack:** HTML, CSS, JavaScript, Bootstrap
 
-A website built with advanced JavaScript that plays different instrument sounds as you hover over the drum elements.
+🔗 **[View Musical Drum](https://github.com/Khaja2988/DRUM_KIT)**
 
+🔗 **[Live Demo](https://khaja2988.github.io/DRUM_KIT/)**
 
+---
+
+# 🛠️ Languages & Tools
 
 <div align="center">
 
+### 💻 Programming Languages
 
+<img src="https://skillicons.dev/icons?i=cpp,java,c,python" />
 
-[![Musical Drum](https://github-readme-stats.vercel.app/api/pin/?username=Khaja2988&repo=DRUM_KIT&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9)](https://khaja2988.github.io/DRUM_KIT/)
+<br/><br/>
 
+### 🌐 Frontend
 
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
 
-</div>
+<br/><br/>
 
+### ⚙️ Backend
 
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 
-| Layer      | Technology                    |
+<br/><br/>
 
-|------------|--------------------------------|
+### 🗄️ Databases
 
-| Frontend   | HTML, CSS, JavaScript, Bootstrap |
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
 
-| Versioning | Git                             |
+<br/><br/>
 
+### ☁️ Cloud & DevOps
 
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,jenkins,githubactions" />
 
-🔗 **Code:** [github.com/Khaja2988/DRUM_KIT](https://github.com/Khaja2988/DRUM_KIT)
+<br/><br/>
 
+### 🔧 Tools
 
+<img src="https://skillicons.dev/icons?i=git,github,postman" />
 
-<br/>
-
-
-
-## 🛠️ Tech Stack
-
-
-
-**Languages**
-
-
-
-![](https://skillicons.dev/icons?i=cpp,java,c,py)
-
-
-
-**Frontend**
-
-
-
-![](https://skillicons.dev/icons?i=html)
-
-
-
-**Backend & Databases**
-
-
-
-![](https://skillicons.dev/icons?i=spring,mongodb,mysql,postgres,sqlite)
-
-
-
-**Cloud**
-
-
-
-![](https://skillicons.dev/icons?i=gcp,aws,azure)
-
-
-
-**Dev Tools & DevOps**
-
-
-
-![](https://skillicons.dev/icons?i=git,github,githubactions,docker,jenkins,postman)
-
-
-
-**Other Tools**
-
-
+<br/><br/>
 
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
@@ -215,70 +130,112 @@ A website built with advanced JavaScript that plays different instrument sounds 
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+</div>
 
+---
 
-<br/>
-
-
-
-## 📊 GitHub Stats
-
-
+# 📊 GitHub Statistics
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Khaja2988&show_icons=true&theme=nord&hide_border=false&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" width="49%"/>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=Khaja2988&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&hide_border=false" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaja2988&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false" width="49%"/>
-
-
-
-<img src="https://streak-stats.demolab.com?user=Khaja2988&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="70%"/>
-
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=Khaja2988&theme=nord&no-frame=true&no-bg=true&row=1&margin-w=15" width="90%"/>
-
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khaja2988&theme=nord&bg_color=0f172a&color=7dd3fc&line=7dd3fc&point=ffffff&hide_border=true" width="100%"/>
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaja2988&layout=compact&theme=nord&hide_border=false&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" width="49%"/>
 
 </div>
-
-
 
 <br/>
 
+---
 
-
-## 🤝 Connect With Me
-
-
+# 🔥 GitHub Streak
 
 <div align="center">
 
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-khajavali-31a202278)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khaja._.vali_/)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikbaji2988@gmail.com)
-
-
+<img src="https://streak-stats.demolab.com?user=Khaja2988&theme=nord&hide_border=false&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=7dd3fc" width="70%"/>
 
 </div>
 
+<br/>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Khaja2988/Khaja2988/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+<br/>
+
+---
+
+# 📈 GitHub Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khaja2988&theme=nord&bg_color=0f172a&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
+
+</div>
+
+<br/>
+
+---
+
+# 📂 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/Khaja2988/AgriHub">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Khaja2988&repo=AgriHub&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" width="49%"/>
+</a>
+
+<a href="https://github.com/Khaja2988/fsdend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Khaja2988&repo=fsdend&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" width="49%"/>
+</a>
+
+<a href="https://github.com/Khaja2988/DRUM_KIT">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Khaja2988&repo=DRUM_KIT&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" width="49%"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shaik-khajavali-31a202278">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/khaja._.vali_/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:shaikbaji2988@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 🚀 Building • Learning • Creating • Growing
+
+**Thanks for visiting my profile!**
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=120&section=footer&animation=twinkling" width="100%"/>
-ans i need to update the project also i mean add another project an di need to streak panal into the sliding like snake going , **   AGRIHUB – Smart Crop Care & Farm-to-Market Decision Engine [🔗](https://github.com/Khaja2988/AgriHub.git)**
 
-·       **Tech Stack:** React.js, Vite, Node.js, Express.js, MongoDB, AI, REST APIs.
-
-- Developed an AI-assisted platform for crop disease diagnosis, dosage      guidance, market prices, buyers/FPOs, storage and logistics. 
-- Implemented a net-earnings decision engine considering storage,      transportation and handling costs. 
-- Added multilingual and offline support using Telugu/Hindi/English,      PWA and IndexedDB.https://github.com/Khaja2988/AgriHub.git
+</div>
