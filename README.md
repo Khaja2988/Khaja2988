@@ -32,45 +32,38 @@
 
 
 
-## 🧑‍💻 Who I Am
+const ShaikKhajavali = {
 
-
-
-```ts
-
-const Shaik Khajavali = {
-
-  title: "CS/IT Student",
+  title: "CS/IT Student | Full-Stack Developer",
 
   stack: [
-
     "C++", "Java", "C", "Python",
-
-    "HTML5", "Spring",
-
-    "MongoDB", "MySQL", "Postgres", "SQLite",
-
-    "Google Cloud", "AWS", "Azure",
-
-    "Git", "GitHub", "Subversion", "GitHub Actions",
-
-    "Docker", "Jenkins", "Apache",
-
-    "Power BI", "Postman", "Canva",
-
+    "HTML5", "CSS3", "JavaScript",
+    "React.js", "Vite",
+    "Node.js", "Express.js", "Spring",
+    "MongoDB", "MySQL", "PostgreSQL",
+    "REST APIs", "AI",
+    "AWS", "Azure", "Google Cloud",
+    "Git", "GitHub", "Docker", "Jenkins",
+    "GitHub Actions", "Postman",
+    "PWA", "IndexedDB"
   ],
 
-  launchedProjects: [
-
-    "Employee Management System",
-
-    "Musical Drum",
-
+  projects: [
+    "🌾 AgriHub",
+    "👤 Employee Management System",
+    "🥁 Musical Drum"
   ],
 
-  status: "Building full-stack projects and sharpening my dev toolkit",
+  focus: [
+    "Full-Stack Development",
+    "AI & Web Applications",
+    "Cloud & DevOps"
+  ],
 
-  openTo: "Full-time opportunities",
+  status: "Building practical full-stack and AI-powered applications",
+
+  openTo: "Full-time opportunities 🚀"
 
 };
 
